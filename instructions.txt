@@ -1,0 +1,21 @@
+
+The Beatles Article Quiz!
+
+ 
+YOUR TASK:
+Add some styling to quiz.html.  You will need to add some html
+to style everything correctly.  Use the-beatles-article.png for reference.
+
+REQUIREMENTS
+ - Center the article on the page.
+ - Use a different font for the titles and the body text.
+ - Add an image to the "History" section (I have included one in the project folder)
+   * The text in the "History" section should wrap around the image.
+ - Use a bulleted list for the "Members" section.
+ - Use a numbered list for the "Selected Discography" section.
+ - Include a link to Wikipedia for additional information.
+   * https://en.wikipedia.org/wiki/The_Beatles
+
+HINTS
+ - <ul> & <ol>
+ - <hr />

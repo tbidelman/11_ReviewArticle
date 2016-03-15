@@ -1,0 +1,41 @@
+/*
+
+	The Beatles Article Quiz!
+
+*/
+
+
+* {	
+	box-sizing: border-box;
+}
+
+body, html {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: Book Antiqua, Palatino, Palatino Linotype, Palatino LT STD, Georgia, serif;
+	font-size: 18px;
+}
+
+.wrap {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+}
+
+img {
+	float: left;
+	margin: 10px;
+}
+
+p {
+	text-align: justify;
+	font-family: Goudy Old Style, Garamond, Big Caslon, Times New Roman, serif;
+	
+}
+
+h1 {
+	text-align: center;
+}
+
